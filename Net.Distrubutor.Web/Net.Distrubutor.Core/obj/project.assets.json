@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj",
+      "projectUniqueName": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj",
       "projectName": "Net.Distrubutor.Core",
-      "projectPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj",
+      "projectPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj",
       "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-      "outputPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\obj\\",
+      "outputPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

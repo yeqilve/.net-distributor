@@ -12542,11 +12542,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Web\\Net.Distrubutor.Web.csproj",
+      "projectUniqueName": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Web\\Net.Distrubutor.Web.csproj",
       "projectName": "Net.Distrubutor.Web",
-      "projectPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Web\\Net.Distrubutor.Web.csproj",
+      "projectPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Web\\Net.Distrubutor.Web.csproj",
       "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-      "outputPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Web\\obj\\",
+      "outputPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

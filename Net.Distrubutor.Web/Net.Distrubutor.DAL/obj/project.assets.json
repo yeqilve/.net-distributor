@@ -12807,11 +12807,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.DAL\\Net.Distrubutor.DAL.csproj",
+      "projectUniqueName": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.DAL\\Net.Distrubutor.DAL.csproj",
       "projectName": "Net.Distrubutor.DAL",
-      "projectPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.DAL\\Net.Distrubutor.DAL.csproj",
+      "projectPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.DAL\\Net.Distrubutor.DAL.csproj",
       "packagesPath": "C:\\Users\\shawn\\.nuget\\packages\\",
-      "outputPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.DAL\\obj\\",
+      "outputPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.DAL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12830,8 +12830,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj": {
-              "projectPath": "D:\\application\\mydis\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj"
+            "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj": {
+              "projectPath": "D:\\application\\mydis\\.net-distributor\\Net.Distrubutor.Web\\Net.Distrubutor.Core\\Net.Distrubutor.Core.csproj"
             }
           }
         }
