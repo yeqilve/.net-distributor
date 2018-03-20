@@ -3,11 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Web", "Net.Distrubutor.Web\Net.Distrubutor.Web.csproj", "{A5DE8ADC-63EA-404C-993A-B405A7884AFA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.Web", "Net.Distrubutor.Web\Net.Distrubutor.Web.csproj", "{A5DE8ADC-63EA-404C-993A-B405A7884AFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.DAL", "Net.Distrubutor.DAL\Net.Distrubutor.DAL.csproj", "{680A53C6-4189-4188-93C0-68B2667D5CDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.DAL", "Net.Distrubutor.DAL\Net.Distrubutor.DAL.csproj", "{680A53C6-4189-4188-93C0-68B2667D5CDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Core", "Net.Distrubutor.Core\Net.Distrubutor.Core.csproj", "{130A5E74-D8FA-4A08-A4EC-ABCF82AEAED1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.Core", "Net.Distrubutor.Core\Net.Distrubutor.Core.csproj", "{130A5E74-D8FA-4A08-A4EC-ABCF82AEAED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.DataModels", "Net.Distrubutor.DataModels\Net.Distrubutor.DataModels.csproj", "{9718A624-7AD3-4D9F-8C18-7E37543C33A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Configration", "Net.Distrubutor.Configration\Net.Distrubutor.Configration.csproj", "{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Until", "Until", "{2954705D-835B-4476-B86C-DBD1FF332651}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Cache", "Net.Distrubutor.Cache\Net.Distrubutor.Cache.csproj", "{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Event", "Net.Distrubutor.Event\Net.Distrubutor.Event.csproj", "{D48C71C8-3338-4CA0-830E-D417F7E459EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,9 +37,29 @@ Global
 		{130A5E74-D8FA-4A08-A4EC-ABCF82AEAED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{130A5E74-D8FA-4A08-A4EC-ABCF82AEAED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{130A5E74-D8FA-4A08-A4EC-ABCF82AEAED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9718A624-7AD3-4D9F-8C18-7E37543C33A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9718A624-7AD3-4D9F-8C18-7E37543C33A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9718A624-7AD3-4D9F-8C18-7E37543C33A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9718A624-7AD3-4D9F-8C18-7E37543C33A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C} = {2954705D-835B-4476-B86C-DBD1FF332651}
+		{D48C71C8-3338-4CA0-830E-D417F7E459EA} = {2954705D-835B-4476-B86C-DBD1FF332651}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F62C9AAC-737D-4D5E-8F8B-32134B7C9647}

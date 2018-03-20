@@ -28,7 +28,6 @@ namespace Net.Distrubutor.Core
 
         public IdGenerater(long workerId, long datacenterId)
         {
-
             // sanity check for workerId
             if (workerId > maxWorkerId || workerId < 0)
             {

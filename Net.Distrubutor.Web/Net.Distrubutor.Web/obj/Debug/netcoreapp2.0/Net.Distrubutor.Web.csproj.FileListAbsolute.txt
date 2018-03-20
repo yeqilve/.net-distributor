@@ -9,3 +9,14 @@ D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreap
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.AssemblyInfo.cs
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.dll
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\bin\Debug\netcoreapp2.0\Net.Distrubutor.Web.deps.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\bin\Debug\netcoreapp2.0\Net.Distrubutor.Web.runtimeconfig.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\bin\Debug\netcoreapp2.0\Net.Distrubutor.Web.runtimeconfig.dev.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\bin\Debug\netcoreapp2.0\Net.Distrubutor.Web.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\bin\Debug\netcoreapp2.0\Net.Distrubutor.Web.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.csprojResolveAssemblyReference.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.AssemblyInfo.cs
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Web\obj\Debug\netcoreapp2.0\Net.Distrubutor.Web.pdb

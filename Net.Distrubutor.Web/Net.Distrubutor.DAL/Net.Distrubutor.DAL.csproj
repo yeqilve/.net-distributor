@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Dapper" Version="1.50.4" />
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" />
     <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="2.0.0" />
@@ -12,6 +13,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Net.Distrubutor.Core\Net.Distrubutor.Core.csproj" />
+    <ProjectReference Include="..\Net.Distrubutor.DataModels\Net.Distrubutor.DataModels.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,3 +4,10 @@ D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreap
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.csproj.CoreCompileInputs.cache
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.AssemblyInfoInputs.cache
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.AssemblyInfo.cs
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\bin\Debug\netcoreapp2.0\Net.Distrubutor.Core.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\bin\Debug\netcoreapp2.0\Net.Distrubutor.DataModels.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\bin\Debug\netcoreapp2.0\Net.Distrubutor.Core.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.csprojResolveAssemblyReference.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.DAL\obj\Debug\netcoreapp2.0\Net.Distrubutor.DAL.AssemblyInfo.cs

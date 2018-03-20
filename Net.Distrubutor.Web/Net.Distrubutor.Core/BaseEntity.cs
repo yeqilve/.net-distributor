@@ -9,7 +9,7 @@ namespace Net.Distrubutor.DAL
         /// <summary>
         /// Gets or sets the entity identifier
         /// </summary>
-        public int Id { get; set; }
+        public long Id { get; set; }
 
         /// <summary>
         /// Is transient
