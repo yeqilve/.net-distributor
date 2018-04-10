@@ -1,0 +1,5 @@
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Bussiness\bin\Debug\netcoreapp2.0\Net.Distrubutor.Bussiness.deps.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Bussiness\bin\Debug\netcoreapp2.0\Net.Distrubutor.Bussiness.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Bussiness\obj\Debug\netcoreapp2.0\Net.Distrubutor.Bussiness.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Bussiness\obj\Debug\netcoreapp2.0\Net.Distrubutor.Bussiness.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Bussiness\obj\Debug\netcoreapp2.0\Net.Distrubutor.Bussiness.AssemblyInfo.cs

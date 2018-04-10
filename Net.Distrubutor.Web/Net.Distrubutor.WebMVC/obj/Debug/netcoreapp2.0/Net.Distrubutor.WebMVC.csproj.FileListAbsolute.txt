@@ -1,0 +1,11 @@
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\bin\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.deps.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\bin\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.runtimeconfig.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\bin\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.runtimeconfig.dev.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\bin\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\bin\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\obj\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.csprojResolveAssemblyReference.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\obj\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\obj\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\obj\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.AssemblyInfo.cs
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\obj\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.WebMVC\obj\Debug\netcoreapp2.0\Net.Distrubutor.WebMVC.pdb

@@ -9,15 +9,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.DAL", "Net.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.Core", "Net.Distrubutor.Core\Net.Distrubutor.Core.csproj", "{130A5E74-D8FA-4A08-A4EC-ABCF82AEAED1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.DataModels", "Net.Distrubutor.DataModels\Net.Distrubutor.DataModels.csproj", "{9718A624-7AD3-4D9F-8C18-7E37543C33A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.DataModels", "Net.Distrubutor.DataModels\Net.Distrubutor.DataModels.csproj", "{9718A624-7AD3-4D9F-8C18-7E37543C33A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Configration", "Net.Distrubutor.Configration\Net.Distrubutor.Configration.csproj", "{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.Configration", "Net.Distrubutor.Configration\Net.Distrubutor.Configration.csproj", "{8A489466-B9DC-465D-8CAD-8EF96D86BA2C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Until", "Until", "{2954705D-835B-4476-B86C-DBD1FF332651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Cache", "Net.Distrubutor.Cache\Net.Distrubutor.Cache.csproj", "{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.Cache", "Net.Distrubutor.Cache\Net.Distrubutor.Cache.csproj", "{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Event", "Net.Distrubutor.Event\Net.Distrubutor.Event.csproj", "{D48C71C8-3338-4CA0-830E-D417F7E459EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Net.Distrubutor.Event", "Net.Distrubutor.Event\Net.Distrubutor.Event.csproj", "{D48C71C8-3338-4CA0-830E-D417F7E459EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BSF.BaseService.DistributedCache", "..\..\..\Backup\桌面\OpenSource\XXF.BaseService.DistributedCache\BSF.BaseService.DistributedCache.csproj", "{3612607F-15C1-4FE7-A5FF-ADD02CE54341}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{48DCA375-2CA2-42D3-AA48-9AE21B2781B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutoFacTest", "ConsoleApp1\AutoFacTest.csproj", "{B8F41FC4-FE32-468D-853F-AC177F29BED0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyTest", "ProxyTest\ProxyTest.csproj", "{28A0ED7B-767F-469C-B319-7DDEA10CF24B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{F4FCBFB1-61B5-4283-9DEB-20D8A8D12C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Net.Distrubutor.Bussiness", "Net.Distrubutor.Bussiness\Net.Distrubutor.Bussiness.csproj", "{15F65614-6E01-4B7E-8EF2-8C0C97269474}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,6 +65,26 @@ Global
 		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48C71C8-3338-4CA0-830E-D417F7E459EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3612607F-15C1-4FE7-A5FF-ADD02CE54341}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3612607F-15C1-4FE7-A5FF-ADD02CE54341}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3612607F-15C1-4FE7-A5FF-ADD02CE54341}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3612607F-15C1-4FE7-A5FF-ADD02CE54341}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F41FC4-FE32-468D-853F-AC177F29BED0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F41FC4-FE32-468D-853F-AC177F29BED0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F41FC4-FE32-468D-853F-AC177F29BED0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F41FC4-FE32-468D-853F-AC177F29BED0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A0ED7B-767F-469C-B319-7DDEA10CF24B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A0ED7B-767F-469C-B319-7DDEA10CF24B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A0ED7B-767F-469C-B319-7DDEA10CF24B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A0ED7B-767F-469C-B319-7DDEA10CF24B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4FCBFB1-61B5-4283-9DEB-20D8A8D12C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FCBFB1-61B5-4283-9DEB-20D8A8D12C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FCBFB1-61B5-4283-9DEB-20D8A8D12C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FCBFB1-61B5-4283-9DEB-20D8A8D12C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F65614-6E01-4B7E-8EF2-8C0C97269474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F65614-6E01-4B7E-8EF2-8C0C97269474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F65614-6E01-4B7E-8EF2-8C0C97269474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F65614-6E01-4B7E-8EF2-8C0C97269474}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +92,8 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D029C8B2-FE5E-4287-ADB6-5BABABE99A2C} = {2954705D-835B-4476-B86C-DBD1FF332651}
 		{D48C71C8-3338-4CA0-830E-D417F7E459EA} = {2954705D-835B-4476-B86C-DBD1FF332651}
+		{B8F41FC4-FE32-468D-853F-AC177F29BED0} = {48DCA375-2CA2-42D3-AA48-9AE21B2781B5}
+		{28A0ED7B-767F-469C-B319-7DDEA10CF24B} = {48DCA375-2CA2-42D3-AA48-9AE21B2781B5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F62C9AAC-737D-4D5E-8F8B-32134B7C9647}

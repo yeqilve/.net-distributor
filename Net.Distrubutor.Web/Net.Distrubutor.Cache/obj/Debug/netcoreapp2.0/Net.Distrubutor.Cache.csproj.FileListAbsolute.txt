@@ -1,0 +1,6 @@
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Cache\bin\Debug\netcoreapp2.0\Net.Distrubutor.Cache.deps.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Cache\bin\Debug\netcoreapp2.0\Net.Distrubutor.Cache.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Cache\obj\Debug\netcoreapp2.0\Net.Distrubutor.Cache.csprojResolveAssemblyReference.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Cache\obj\Debug\netcoreapp2.0\Net.Distrubutor.Cache.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Cache\obj\Debug\netcoreapp2.0\Net.Distrubutor.Cache.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Cache\obj\Debug\netcoreapp2.0\Net.Distrubutor.Cache.AssemblyInfo.cs

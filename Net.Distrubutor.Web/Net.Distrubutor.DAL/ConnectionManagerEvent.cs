@@ -6,7 +6,9 @@ namespace Net.Distrubutor.DAL
 {
     public delegate void ConnectionConfiguration();
     
-
+    /// <summary>
+    /// refresh the all db connection when connect failed
+    /// </summary>
     public abstract class ConnectionManagerEvent
     {
         public event ConnectionConfiguration configrationEvent;
@@ -16,8 +18,7 @@ namespace Net.Distrubutor.DAL
         public void Invoke()
         {
             //log
-            //execute();
-            
+            //execute();          
             configrationEvent();
             //            
         }

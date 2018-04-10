@@ -7,3 +7,12 @@ D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcorea
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.AssemblyInfo.cs
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.dll
 D:\application\mydis\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\bin\Debug\netcoreapp2.0\Net.Distrubutor.Core.deps.json
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\bin\Debug\netcoreapp2.0\Net.Distrubutor.Core.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\bin\Debug\netcoreapp2.0\Net.Distrubutor.Core.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.csprojResolveAssemblyReference.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.AssemblyInfo.cs
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.dll
+D:\Application\dotNet\Net.Distrubutor.Web\Net.Distrubutor.Core\obj\Debug\netcoreapp2.0\Net.Distrubutor.Core.pdb

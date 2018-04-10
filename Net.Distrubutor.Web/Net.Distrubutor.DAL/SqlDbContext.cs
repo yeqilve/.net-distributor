@@ -10,7 +10,7 @@ namespace Net.Distrubutor.DAL
     public class SqlDbContext : DbContext, IDbContext
     {
         private DbContextOptions<SqlDbContext> conStr;
-        private string connectStr;
+        private string connectStr = @"Data Source=192.168.157.128 ;Database=distributor;User ID=shawn;Password=bpmPwd!@#;pooling=true;CharSet=utf8;port=3306;sslmode=none";
         public SqlDbContext(DbContextOptions<SqlDbContext> connectString) : base(connectString)
         {
             this.conStr = connectString;

@@ -1,0 +1,11 @@
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\bin\Debug\netcoreapp2.0\ProxyTest.deps.json
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\bin\Debug\netcoreapp2.0\ProxyTest.runtimeconfig.json
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\bin\Debug\netcoreapp2.0\ProxyTest.runtimeconfig.dev.json
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\bin\Debug\netcoreapp2.0\ProxyTest.dll
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\obj\Debug\netcoreapp2.0\ProxyTest.csprojResolveAssemblyReference.cache
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\obj\Debug\netcoreapp2.0\ProxyTest.csproj.CoreCompileInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\obj\Debug\netcoreapp2.0\ProxyTest.AssemblyInfoInputs.cache
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\obj\Debug\netcoreapp2.0\ProxyTest.AssemblyInfo.cs
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\bin\Debug\netcoreapp2.0\ProxyTest.pdb
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\obj\Debug\netcoreapp2.0\ProxyTest.dll
+D:\Application\dotNet\Net.Distrubutor.Web\ProxyTest\obj\Debug\netcoreapp2.0\ProxyTest.pdb
