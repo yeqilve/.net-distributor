@@ -1,0 +1,51 @@
+﻿yum 安装的apr apr util apr devel apache 无法识别
+1.6.1 版本报错。
+apxs 修改第一行 到perl 地址
+find / -name perl
+
+
+配置为服务 cp /usr/local/Apache/bin/apachectl /etc/rc.d/init.d/httpd
+ vi /etc/rc.d/init.d/httpd
+ #chkconfig:35 61 61   //在3 5 运行级别运行， 启动关闭顺序均为 61 
+# 等级0表示：表示关机
+# 等级1表示：单用户模式
+# 等级2表示：无网络连接的多用户命令行模式
+# 等级3表示：有网络连接的多用户命令行模式
+# 等级4表示：不可用
+# 等级5表示：带图形界面的多用户模式
+# 等级6表示：重新启动
+ #description:Apache
+ 
+# 意义如下
+#35：在3级别和5级别（级别见文末TIPS）启动httpd
+#61：启动顺序为61号，S61
+#61：关闭顺序为61号，K61
+#当进行chkconfig --add httpd操作时，如果没有指定level那么就会来这个注释中取值
+
+将httpd配置自启并加入linux服务监控
+
+[root@localhost bin]# chkconfig --add httpd
+
+#相关说明   http://blog.csdn.net/u010297957/article/details/50751656
+
+mysql 配置
+symbolic-links=0
+为1 时不允许远程连接， 会提高效率
+
+##防火墙
+那怎么开启一个端口呢
+添加
+firewall-cmd --zone=public --add-port=80/tcp --permanent    （--permanent永久生效，没有此参数重启后失效）
+重新载入
+firewall-cmd --reload
+查看
+firewall-cmd --zone=public --query-port=80/tcp
+删除
+firewall-cmd --zone=public --remove-port=80/tcp --permanent
+ 
+ 
+启动： systemctl start firewalld
+查看状态： systemctl status firewalld 
+停止： systemctl disable firewalld
+禁用： systemctl stop firewalld
+ 
